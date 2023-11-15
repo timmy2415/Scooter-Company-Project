@@ -10,4 +10,4 @@ This project shows how to:
 3) Build different types of visualizations using seaborn to easily analyze data trends
 4) Conduct a model building process using linear regression to predict daily scooter rentals.
 
-Refer to the Scooter_Rentals_Project.ipynb file to view the complete python script on Google Colab
+Refer to the "Scooter_Rentals_Project.ipynb" file to view the complete python script on Google Colab
